@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="50" width="50">
+  <title>Mistress</title>
+  <description>
+    Western black-side Mistress
+  </description>
+
+  <g>
+    <path stroke-linejoin="miter" d="m36.272,18.675c0.24901-0.9706,0.52068-1.9354,0.81467-2.8933,1.2517-4.0785,2.9096-8.0321,4.9413-11.783" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.95638394" fill="none"/>
+    <path stroke-linejoin="round" d="m44.836,3.5374a2.0819,2.0819,0,0,1,-4.0651,-0.89968,2.0819,2.0819,0,1,1,4.0651,0.89968z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.95638394" fill="#000"/>
+    <path stroke-linejoin="miter" d="m40.272,21.641c0.3184-0.70219,0.65317-1.3969,1.0039-2.0835,1.4935-2.9231,3.2782-5.6974,5.3189-8.2685" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.95638394" fill="none"/>
+    <path stroke-linejoin="round" d="M49.268,11.533a2.0819,2.0819,0,0,1,-3.847,-1.5915,2.0819,2.0819,0,1,1,3.847,1.5915z" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.95638394" fill="#000"/>
+    <path stroke-linejoin="round" d="m43.431,27.729a18.431,10.771,0,0,1,-36.863,0,18.431,10.771,0,1,1,36.863,0z" stroke="#000" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.95638394" fill="#000"/>
+    <path stroke-linejoin="round" d="m7.392,31.74c0,2.6086,1.9565,2.6086,3.2608,5.2171,1.3043,1.9565,1.3043,1.3043,0.65214,4.565-1.9565,1.3043-1.9565,3.2608-1.9565,3.2608-1.9565,1.9565,0.65214,3.2608,0.65214,3.2608,8.4779,1.3043,21.521,1.3043,29.999,0,0,0,1.9565-1.3043,0-3.2608,0,0,0.65214-1.9565-1.3043-3.2608-0.65214-3.2608-0.65214-2.6086,0.65214-4.565,1.3043-2.6086,3.2608-2.6086,3.2608-5.2171-11.087-1.9565-24.13-1.9565-35.215,0z" fill-rule="evenodd" stroke="#000" stroke-linecap="butt" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.95643616" fill="#000"/>
+    <path stroke-linejoin="round" d="m10.653,36.957c4.565-1.3043,24.13-1.3043,28.694,0" stroke="#FFF" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.95643616" fill="none"/>
+    <path stroke-linejoin="round" d="m11.305,41.522c7.8257-1.3043,19.565-1.3043,27.39,0" stroke="#FFF" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.956" fill="none"/>
+    <path stroke-linejoin="round" d="m27.609,38.368a2.6086,2.6086,0,0,1,-5.2171,0,2.6086,2.6086,0,1,1,5.2171,0z" fill-rule="evenodd" stroke="#FFF" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.95599997" fill="#000"/>
+    <path stroke-linejoin="round" d="m9.4229,45.658a45.433,45.433,0,0,0,31.154,0" stroke="#FFF" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.95599997" fill="none"/>
+    <path stroke-linejoin="round" d="m8.0271,30.951a49.504,49.504,0,0,1,33.946,0" stroke="#FFF" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1.95599997" fill="none"/>
+  </g>
+</svg>
