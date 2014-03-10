@@ -2,7 +2,6 @@
 
 Listing of chess pieces in SVG format from different chess variants:
 
- * [<ruby lang="ko">장기<rt lang="en">Janggi</rt></ruby>](https://en.wikipedia.org/wiki/Janggi);
  * [<ruby lang="ja">将棋<rt lang="en">Shogi</rt></ruby>](https://en.wikipedia.org/wiki/Shogi);
  * [Western](https://en.wikipedia.org/wiki/Chess);
  * [<ruby lang="zh">象棋<rt lang="en">Xiangqi</rt></ruby>](https://en.wikipedia.org/wiki/Xiangqi).
