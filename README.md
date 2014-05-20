@@ -1,6 +1,6 @@
-# Chess pieces
+# Chess actor graphics
 
-Listing of chess pieces in SVG format from different chess variants:
+Listing of chess actors in SVG format from different variants:
 
  * [<ruby lang="ja">将棋<rt lang="en">Shogi</rt></ruby>](https://en.wikipedia.org/wiki/Shogi);
  * [Western](https://en.wikipedia.org/wiki/Chess);
